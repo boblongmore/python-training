@@ -1,0 +1,4 @@
+{
+    "build": { "dockerfile": "./Dockerfile"},
+    "extensions": ["ms-python.python", "ms-python.vscode-pylance", "mohsen1.prettify-json"],
+}
